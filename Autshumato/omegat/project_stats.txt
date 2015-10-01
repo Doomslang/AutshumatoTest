@@ -1,0 +1,16 @@
+10/1/15 10:09 PM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	
+Total:           	    2176	40149	                     243263	                       275647	
+Remaining:       	    2170	40018	                     242468	                       274724	
+Unique:          	    1506	37543	                     226486	                       256495	
+Unique Remaining:	    1500	37412	                     225691	                       255572	
+
+
+Individual File Statistics:
+
+File Name                        	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+Gateway_Protection_Programme.UTF8	            60	                58	             60	                       58	       6325	           6255	        6325	                  6255	                            39973	                                39566	                             39973	                                       39566	                              44108	                                  43638	                               44108	                                         43638	
+List_of_mathematical_symbols.UTF8	          1941	              1939	           1271	                     1269	      17176	          17171	       14570	                 14565	                           103247	                               103207	                             86470	                                       86430	                             118679	                                 118628	                               99527	                                         99476	
+Thunderbirds_%28TV_series%29.UTF8	           175	               173	            175	                      173	      16648	          16592	       16648	                 16592	                           100043	                                99695	                            100043	                                       99695	                             112860	                                 112458	                              112860	                                        112458	

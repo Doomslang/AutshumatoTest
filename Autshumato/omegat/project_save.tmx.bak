@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.6" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was produced between 1964 and 1966 using a combination of [[marionette]] puppetry and [[scale-model]] special effects sequences&amp;nbsp;– a hybrid filming technique known as "[[Supermarionation]]".</seg>
+      </tuv>
+      <tuv lang="AFR-ZA" changeid="NTLERE" changedate="20150930T100420Z" creationid="NTLERE" creationdate="20150930T100343Z">
+        <seg>Dit is geproduseer tussen 1964 en 1966 deur die gebruik van 'n kombinasie van [[pop]] poppespel en [[skaalmodel]]spesiale effekte sequences &amp; nbsp * – 'n hibriede filmtegniek bekend as "[[supermarionation]]".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two series comprising a total of 32 episodes were filmed; production ceased after the Andersons' financial backer, [[Lew Grade]], failed in his efforts to sell the programme to American network television.</seg>
+      </tuv>
+      <tuv lang="AFR-ZA" changeid="NTLERE" changedate="20150930T100536Z" creationid="NTLERE" creationdate="20150930T100536Z">
+        <seg>Twee reekse wat uit 'n totaal van 32 episodes is verfilm; produksie gestaak nadat die Andersons se borg, [[Lew Grade]], gefaal het in sy pogings om die reeks te verkoop aan Amerikaanse netwerktelevisie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{{featured article}}
+{{Use dmy dates|date=December 2012}}
+The '''Gateway Protection Programme''' is a scheme operated by the British government in partnership with the [[United Nations High Commissioner for Refugees]] (UNHCR) and co-funded by the [[European Union]] (EU), offering a legal route for a quota of UNHCR-identified [[refugee]]s to settle in the United Kingdom.</seg>
+      </tuv>
+      <tuv lang="AFR-ZA" changeid="Roald" changedate="20151001T200522Z" creationid="Roald" creationdate="20151001T200522Z">
+        <seg>{{featured article}}
+{{Use dmy dates|date=December 2012}}
+Die '''Gateway Protection Programme''' is 'n skema wat deur die Britse regering in met die Verenigde Nasies s a scheme operated by the British government in partnership with the [[United Nations High Commissioner for Refugees]] (UNHCR) and co-funded by the [[European Union]] (EU), offering a legal route for a quota of UNHCR-identified [[refugee]]s to settle in the United Kingdom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>| name     =[[addition]]</seg>
+      </tuv>
+      <tuv lang="AFR-ZA" changeid="NTLERE" changedate="20150930T092459Z" creationid="NTLERE" creationdate="20150930T092459Z">
+        <seg>| naam     =[[addition]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>| symbol   =[[plus sign|+]]</seg>
+      </tuv>
+      <tuv lang="AFR-ZA" changeid="NTLERE" changedate="20150930T092418Z" creationid="NTLERE" creationdate="20150930T092418Z">
+        <seg>| simbool   =[[plus sign|+]]</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
